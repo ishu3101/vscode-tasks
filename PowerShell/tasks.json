@@ -1,7 +1,7 @@
 {
-	"version": "0.1.0",
-	"command": "PowerShell",
-	"isShellCommand": true,
-	"args": ["${file}"]
+    "version": "0.1.0",
+    "command": "PowerShell",
+    "isShellCommand": true,
+    "args": ["${file}"]
 }
 
